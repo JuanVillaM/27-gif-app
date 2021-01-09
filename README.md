@@ -1,5 +1,6 @@
 # Information
-:simple_smile: :simple_smile: :simple_smile: *Hello, I'm Juan Villa, I can tell you that here is a small application made in React with Hooks to search and display animated gifs, from the Giphy Developers API* :simple_smile: :simple_smile: :simple_smile:
+:smiley: :smiley: :smiley: *Hello, I'm Juan Villa, I can tell you that here is a small application made in React with Hooks to search and display animated gifs, from the Giphy Developers API* :smiley: :smiley: :smiley:
+
 > Juan Villa
 
 ## Development Server
