@@ -3,7 +3,7 @@
 > Juan Villa
 
 # IMPORTANT!
-:wink: To see on live the app that I already created go to the following link: [Gif App](https://juanvillam.github.io/27-gif-app/) :wink:
+To see on live the app that I already created go to the following link :point_right: [Gif App](https://juanvillam.github.io/27-gif-app/):point_left:
 
 ## Development Server
 Remember run `npm install` for get ready with the node_modules on your PC!
